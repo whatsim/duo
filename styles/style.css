@@ -1,0 +1,11 @@
+* {
+	padding:0;
+	margin:0;
+	overflow: hidden;
+	background: black;
+}
+#output {
+	height:100vh;
+	/*margin:10px auto;*/
+	display: block;
+}
